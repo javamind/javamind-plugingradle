@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: constantine">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/constantine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

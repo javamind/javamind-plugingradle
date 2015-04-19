@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jffi">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/jffi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

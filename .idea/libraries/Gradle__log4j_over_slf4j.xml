@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: log4j-over-slf4j">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/log4j-over-slf4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

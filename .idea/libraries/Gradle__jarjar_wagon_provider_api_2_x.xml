@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jarjar-wagon-provider-api-2.x">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jarjar-wagon-provider-api-2.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

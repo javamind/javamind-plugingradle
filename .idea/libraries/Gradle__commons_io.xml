@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: commons-io">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/commons-io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

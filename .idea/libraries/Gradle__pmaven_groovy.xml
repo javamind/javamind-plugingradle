@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: pmaven-groovy">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/pmaven-groovy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

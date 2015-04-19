@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jnr-posix">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/jnr-posix.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

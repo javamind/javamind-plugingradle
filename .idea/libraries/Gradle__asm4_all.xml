@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: asm4-all">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/asm4-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

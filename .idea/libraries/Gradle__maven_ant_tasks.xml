@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: maven-ant-tasks">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/maven-ant-tasks.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

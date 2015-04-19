@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: eclipse-ecj">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/eclipse-ecj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

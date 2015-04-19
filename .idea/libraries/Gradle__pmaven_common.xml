@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: pmaven-common">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/pmaven-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

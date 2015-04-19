@@ -1,0 +1,24 @@
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.0'
+}
+apply plugin: 'groovy'
+apply plugin: 'idea'
+apply plugin: 'maven-publish'
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+}
+
+group = 'com.javamind'
+version = '0.1'
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            artifactId 'myplugintest'
+            from components.java
+        }
+    }
+}
+

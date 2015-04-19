@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: gradle-tooling-api-1.5">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/gradle-tooling-api-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

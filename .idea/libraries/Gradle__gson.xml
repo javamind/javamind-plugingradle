@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: gson">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/gson.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

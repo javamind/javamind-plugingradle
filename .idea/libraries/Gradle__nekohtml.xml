@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: nekohtml">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/nekohtml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

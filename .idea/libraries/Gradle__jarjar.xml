@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jarjar">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/jarjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

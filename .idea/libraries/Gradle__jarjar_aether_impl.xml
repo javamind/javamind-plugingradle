@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jarjar-aether-impl">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jarjar-aether-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

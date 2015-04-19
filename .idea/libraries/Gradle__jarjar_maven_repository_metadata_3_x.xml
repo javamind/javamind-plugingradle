@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jarjar-maven-repository-metadata-3.x">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jarjar-maven-repository-metadata-3.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

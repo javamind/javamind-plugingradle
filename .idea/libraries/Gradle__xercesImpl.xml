@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: xercesImpl">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/xercesImpl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

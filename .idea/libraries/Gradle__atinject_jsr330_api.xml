@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: atinject-jsr330-api">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/atinject-jsr330-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: native-platform">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/native-platform.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

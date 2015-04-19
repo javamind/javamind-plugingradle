@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jetty">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jetty.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

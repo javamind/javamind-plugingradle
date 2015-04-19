@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jarjar-plexus-cipher">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jarjar-plexus-cipher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

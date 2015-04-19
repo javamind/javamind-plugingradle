@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: bcprov">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/bcprov.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

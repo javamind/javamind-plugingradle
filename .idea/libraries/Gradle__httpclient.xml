@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: httpclient">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/httpclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

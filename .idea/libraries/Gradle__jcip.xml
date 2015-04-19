@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jcip">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/jcip.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

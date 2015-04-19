@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: xbean-reflect">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/xbean-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

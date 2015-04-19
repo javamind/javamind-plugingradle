@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: jetty-naming">
+    <CLASSES>
+      <root url="jar:///usr/share/gradle/lib/plugins/jetty-naming.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
