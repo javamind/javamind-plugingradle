@@ -1,4 +1,4 @@
-![Dev-Mind](http://dev-mind.fr/images/bbed4f5c.logo_new.png)
+![Dev-Mind](http://dev-mind.fr/logo/logo_1500.png)
 
 Un exemple qui illustre l'article de Javamind sur les customs plugins gradle
 
